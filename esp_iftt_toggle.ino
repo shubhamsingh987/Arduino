@@ -36,8 +36,8 @@
 const char* ssid = "HOME2 WIFI 4G";
 const char* password = "Home1234";
 bool toggle=0;
-const char* url1 = "http://maker.ifttt.com/trigger/turnon/with/key/funmKihPUMmzuBkXQdKRNv_uMZDBChvvpptdl7k44fN";
-const char* url2 = "http://maker.ifttt.com/trigger/turnoff/with/key/funmKihPUMmzuBkXQdKRNv_uMZDBChvvpptdl7k44fN";
+const char* url1 = "http://maker.ifttt.com/trigger/turn/with/key/funmKihPUMmzuBkXQdKRNv_uMZDBChvvpptdl7k44fN";
+const char* url2 = "http://maker.ifttt.com/trigger/turn/with/key/funmKihPUMmzuBkXQdKRNv_uMZDBChvvpptdl7k44fN";
 unsigned long lastTime = 0;
 int result=0;
 unsigned long timerDelay = 10000;
